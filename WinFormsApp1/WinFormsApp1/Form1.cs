@@ -11,5 +11,10 @@ namespace WinFormsApp1
         {
             MessageBox.Show("Button 2 clicked!");
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Button 4 clicked!");
+        }
     }
 }
